@@ -1,5 +1,16 @@
 <p align="left">Hi there 👋, My Name is Nikko Welcome to my GitHub profile.</p>
 
+
+Welcome to my GitHub profile! Here's a little bit about me:
+
+- 🌱 I’m currently learning **programming basics** and exploring the world of **open-source development**.
+- 🤔 I’m looking for help with beginner-friendly **projects** to improve my skills.
+- 💬 Ask me about anything related to **getting started with coding**, and I’ll try my best to help.
+- 📫 How to reach me: [samsonnikko27@gmail.com]
+
+
+Thanks for stopping by! 
+
 ###
 
 <div align="left">
