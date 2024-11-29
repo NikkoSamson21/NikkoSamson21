@@ -11,6 +11,9 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 Thanks for stopping by! 
 
+- This is the language i know 💻⌨.
+- _________________________________________________________________________________________________________________________________________
+
 ###
 
 <div align="left">
