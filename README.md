@@ -1,7 +1,7 @@
-<p align="left">Hi there 👋, My Name is Nikko Welcome to my GitHub profile.</p>
+<p align="left">Hi there 👋, My Name is Nikko Welcome to my GitHub profile!.</p>
 
 
-Welcome to my GitHub profile! Here's a little bit about me:
+Here's a little bit about me:
 
 - 🌱 I’m currently learning **programming basics** and exploring the world of **open-source development**.
 - 🤔 I’m looking for help with beginner-friendly **projects** to improve my skills.
@@ -11,8 +11,8 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 Thanks for stopping by! 
 
-- This is the language i know 💻⌨.
-- _________________________________________________________________________________________________________________________________________
+This is the language i know 💻⌨.
+_________________________________________________________________________________________________________________________________________
 
 ###
 
