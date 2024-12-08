@@ -7,7 +7,7 @@ Here's a little bit about me:
 - 🤔 I’m looking for help with beginner-friendly **projects** to improve my skills.
 - 📫 How to reach me: [samsonnikko27@gmail.com]
 
-<button <a href="https://youtu.be/dQw4w9WgXcQ?si=uGjr_FII0vJbOCIp">Click this for silly</button>
+<a href="https://youtu.be/dQw4w9WgXcQ?si=uGjr_FII0vJbOCIp">Click this for silly</button>
 
 
 Thanks for stopping by! 
