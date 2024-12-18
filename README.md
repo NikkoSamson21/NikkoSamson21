@@ -5,9 +5,11 @@
 
 I’m currently learning programming basics and diving into the exciting world of open-source development.
 🤔 I’m looking to collaborate on beginner-friendly projects to sharpen my skills.
-📫 How to reach me: [Your Contact Info].
+📫 How to reach me: [samsonnikko27@gmail.com].
 
 🎉 For a touch of fun, <a href="https://youtu.be/dQw4w9WgXcQ?si=uGjr_FII0vJbOCIp">click here for something silly!</button>
+
+"if you think is a sus link then you are safe from the meme."
 
 Thanks for stopping by! 
 
@@ -24,7 +26,12 @@ ________________________________________________________________________________
   <div>
     
   </div>
+
+  ###
+  
 🎨 My Visual Space
+
+  ###
 
 <div align="center"> 
   <img height="300" src="https://github.com/NikkoSamson21/NikkoSamson21/blob/main/dhs67xp-15e3e9bb-4380-4b24-b58c-3a4bf198a282.gif" alt="Placeholder 1" /> 
