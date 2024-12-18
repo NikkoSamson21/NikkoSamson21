@@ -7,7 +7,7 @@ I’m currently learning programming basics and diving into the exciting world o
 🤔 I’m looking to collaborate on beginner-friendly projects to sharpen my skills.
 📫 How to reach me: [Your Contact Info].
 
-🎉 For a touch of fun, click here for something silly!
+🎉 For a touch of fun, <a href="https://youtu.be/dQw4w9WgXcQ?si=uGjr_FII0vJbOCIp">click here for something silly!</button>
 
 Thanks for stopping by! 
 
@@ -21,7 +21,9 @@ ________________________________________________________________________________
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" /> 
   <img width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" /> 
 </div>
-  
+  <div>
+    
+  </div>
 🎨 My Visual Space
 
 <div align="center"> 
