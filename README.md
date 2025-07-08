@@ -35,6 +35,5 @@ ________________________________________________________________________________
 
 <div align="center"> 
   <img height="300" src="https://github.com/NikkoSamson21/NikkoSamson21/blob/main/dhs67xp-15e3e9bb-4380-4b24-b58c-3a4bf198a282.gif" alt="Placeholder 1" /> 
-  <img height="300" src="https://github.com/NikkoSamson21/NikkoSamson21/blob/main/hazbin-hotel-icegif-11.gif" alt="Placeholder 2" /> 
-  <img height="300" src="https://github.com/NikkoSamson21/NikkoSamson21/blob/main/tumblr_c53ba233a2c6ccc83bd2ab254eaa5013_af327c74_540.gif" alt="Placeholder 3" /> 
+  <img height="300" src="https://github.com/NikkoSamson21/NikkoSamson21/blob/main/hazbin-hotel-icegif-11.gif" alt="Placeholder 2" />  
 </div>
