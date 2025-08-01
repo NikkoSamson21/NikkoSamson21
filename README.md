@@ -9,6 +9,7 @@ I’m currently learning programming basics and diving into the exciting world o
 
 🎉 For a touch of fun, <a href="https://youtu.be/dQw4w9WgXcQ?si=uGjr_FII0vJbOCIp">click here for something silly!</button>
 
+
 "if you think is a sus link then you are safe from the meme."
 
 Thanks for stopping by! 
